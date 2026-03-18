@@ -1,0 +1,46 @@
+<div style="background:#0e0e0e;color:#d0d0d0;font-family:monospace;border:2px solid #00b8d4;border-radius:6px;padding:20px;max-width:700px;margin-left:auto;margin-right:auto;">
+  <!--Remove Background Color line above if you use the CSS!-->
+  
+  <div style="display:flex;align-items:center;margin-bottom:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Nanotrasen_Logo.png" style="height:48px;" alt="Nanotrasen Logo" />
+    <div>
+      <h1 style="color:#00b8d4;font-size:1.5em;margin:0;margin-left:5px;">NANOTRASEN PERSONNEL RECORDS</h1>
+      <p style="color:#ff4444;font-size:.9em;margin:0;margin-left:5px;">CENTCOM CLASSIFIED – DO NOT REPRODUCE</p>
+    </div>
+  </div>
+
+  <p style="color:#888;font-size:.9em;">
+    ACCESS LEVEL: <span style="color:#00b8d4;">INTERNAL</span><br />
+    TERMINAL LOG: CENTCOM UPLINK TERMINAL / NODE-14<br />
+    LAST UPDATED: XX/XX/XX<br />
+  </p>
+
+  <hr style="border-color:#00b8d4;margin:15px 0;" />
+  
+  <p style="color:#888;font-size:.9em;">
+    > INITIALIZING FILE REQUEST...<br />
+    > VERIFYING ACCESS LEVEL...<br />
+    > ACCESS LEVEL VERIFIED<br />
+    > OPENING FILE: /CHAR_NAME/FILE_NAME<br />
+  </p>
+  
+  <p style="color:#888;font-size:.9em;">
+    WIP, COME BACK LATER!!
+  </p>
+
+  <p style="color:#888;font-size:.9em;">
+    NAVIGATION<br />
+    > <a href="Link Back to Character Main Page Goes Here!" style="color:#ff4444;font-size:.9em">GO BACK</a><br />
+    > <a href="Link Back to Login Page Goes Here!" style="color:#ff4444;font-size:.9em">LOG OUT</a>
+  </p>
+  <!--Feel free to remove the Log Out line here if you plan to only use the character page layout!-->
+
+  <hr style="border-color:#00b8d4;margin:15px 0;" />
+
+  <p style="color:#888;font-size:.85em;text-align:right;">
+    ACCESS LOGGED<br />
+    FILE MAINTAINED BY CENTRAL COMMAND – PERSONNEL OPS DIVISION<br />
+    UNAUTHORIZED DUPLICATION OR DISSEMINATION IS PUNISHABLE UNDER NT PROTOCOL-5<br />
+    SECURESPACE DIRECTIVE 4.17(c)<br />
+  </p>
+</div>

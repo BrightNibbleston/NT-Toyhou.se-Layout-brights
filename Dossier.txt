@@ -1,0 +1,54 @@
+<div style="background:#0e0e0e;color:#d0d0d0;font-family:monospace;border:2px solid #00b8d4;border-radius:6px;padding:20px;max-width:700px;margin-left:auto;margin-right:auto;">
+  <!--Remove Background Color line above if you use the CSS!-->
+  
+  <div style="display:flex;align-items:center;margin-bottom:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Nanotrasen_Logo.png" style="height:48px;" alt="Nanotrasen Logo" />
+    <div>
+      <h1 style="color:#00b8d4;font-size:1.5em;margin:0;margin-left:5px;">NANOTRASEN PERSONNEL DIRECTORY</h1>
+      <p style="color:#ff4444;font-size:.9em;margin:0;margin-left:5px;">CENTCOM CLASSIFIED – DO NOT REPRODUCE</p>
+    </div>
+  </div>
+  
+  <p style="color:#888;font-size:.9em;">
+    ACCESS LEVEL: <span style="color:#00b8d4;">INTERNAL</span><br />
+    TERMINAL LOG: CENTCOM UPLINK TERMINAL / NODE-14<br />
+    LAST UPDATED: XX/X/XX<br />
+  </p>
+
+  <hr style="border-color:#00b8d4;margin:15px 0;"/>
+
+  <p style="color:#d0d0d0;font-size:.9em;">
+    > INITIALIZING PERSONNEL INDEX...<br />
+    > LINK ESTABLISHED: NT-CENTCOM DATABASE<br />
+    > CURRENT DIRECTORY: /PERSONNEL/USERNAME<br />
+    > QUERY RESULT: X RECORDS FOUND<br />
+    <br />
+    [01] CHAR_NAME<br />
+    ├─ STATUS: <span style="color:#00ff88;">ACTIVE</span><br />
+    └─ <a href="CHARACTER PAGE LINK GOES HERE" style="color:#00b8d4;">ACCESS DOSSIER</a><br />
+    <br />
+    [02] CHAR_NAME<br />
+    ├─ STATUS: <span style="color:#ffc944;">STANDBY</span><br />
+    └─ <a href="CHARACTER PAGE LINK GOES HERE" style="color:#00b8d4;">ACCESS DOSSIER</a><br />
+    <br />
+    [03] CHAR_NAME<br />
+    ├─ STATUS: <span style="color:#ff4444;">INACTIVE</span><br />
+    └─ <a href="CHARACTER PAGE LINK GOES HERE" style="color:#00b8d4;">ACCESS DOSSIER</a><br />
+  </p>
+  <!--Feel free to add or remove character rows!-->
+  
+  <p style="color:#888;font-size:.9em;">
+    NAVIGATION<br />
+    <span>> </span><a href="LINK BACK TO LOGIN PAGE" style="color:#ff4444;font-size:.9em">LOG OUT</a>
+  </p>
+  <!--Feel free to remove the navigation section here if you plan to not use subfolders :), so this can be your folder layout!-->
+  
+  <hr style="border-color:#00b8d4;margin:15px 0;"/>
+
+  <p style="color:#888;font-size:.85em;text-align:right;">
+    ACCESS LOGGED<br />
+    FILE MAINTAINED BY CENTRAL COMMAND – PERSONNEL OPS DIVISION<br />
+    UNAUTHORIZED DUPLICATION OR DISSEMINATION IS PUNISHABLE UNDER NT PROTOCOL-5<br />
+    SECURESPACE DIRECTIVE 4.17(c)<br />
+  </p>
+</div>

@@ -1,0 +1,120 @@
+<div style="background:#0e0e0e;color:#d0d0d0;font-family:monospace;border:2px solid #00b8d4;border-radius:6px;padding:20px;max-width:700px;margin-left:auto;margin-right:auto;">
+  <!--Remove Background Color line above if you use the CSS!-->
+  
+  <div style="display:flex;align-items:center;margin-bottom:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Nanotrasen_Logo.png" style="height:48px;" alt="Nanotrasen Logo" />
+    <div>
+      <h1 style="color:#00b8d4;font-size:1.5em;margin:0;margin-left:5px;">NANOTRASEN PSYCHOLOGICAL ASSESSMENT</h1>
+      <p style="color:#ff4444;font-size:.9em;margin:0;margin-left:5px;">CENTCOM CLASSIFIED – DO NOT REPRODUCE</p>
+    </div>
+  </div>
+  
+  <p style="color:#888;font-size:.9em;">
+    ACCESS LEVEL: <span style="color:#ffc944;">RESTRICTED</span><br />
+    TERMINAL LOG: CENTCOM UPLINK TERMINAL / NODE-14<br />
+    LAST UPDATED: XX/XX/XX
+  </p>
+  
+  <hr style="border-color:#00b8d4;margin:15px 0;" />
+  
+  <p style="color:#888;font-size:.9em;">
+    > INITIALIZING FILE REQUEST...<br />
+    > ACCESS LEVEL VERIFIED<br />
+    > OPENING FILE: /CHAR_NAME/PSYCH_EVALUATION<br />
+  </p>
+  
+  <p style="color:#888;font-size:.9em;">
+    [PHOTO ATTACHMENT]<br />
+    ├─ FILE: EMPLOYEE_PHOTO.png<br />
+    └─ STATUS: <span style="color:#00ff88;">LOADED</span>
+  </p>
+  
+  <img src="Character Image Link Goes here!" style="height:120px;border:1px solid #00b8d4;margin-left:4px;margin-top:4px;">
+  
+  <p style="color:#888;font-size:.9em;">
+    <br />
+    [INTRODUCTORY NOTES]<br />
+    ├─ FACILITY: X<br />
+    ├─ PSYCHITRIST: X<br />
+    ├─ PATIENT: X<br />
+    ├─ REASON: X<br />
+    └─ DATE: X<br />
+  </p>
+  
+  <p style="color:#888;font-size:.9em;">
+    [PRESENTATION]<br />
+    ├─ APPEARANCE:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    ├─ BEHAVIOR:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    ├─ SPEECH:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    ├─ MOOD/AFFECT:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    └─ ORIENTATION:<br />
+    <span style="display:block;padding-left:30px;margin-left:5px;padding-right:5px;margin-right:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+  </p>
+  
+  <p style="color:#888;font-size:.9em;">
+    [COGNATIVE FUNCTIONING]<br />
+    ├─ ATTENTION:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    ├─ MEMORY:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    ├─ REASONING:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    └─ PERCEPTUAL DISTURBANCES:<br />
+    <span style="display:block;padding-left:30px;margin-left:5px;padding-right:5px;margin-right:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+  </p>
+  
+  <p style="color:#888;font-size:.9em;">
+    [CLINICAL ASSESSMENT]<br />
+    ├─ IMPRESSION:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    ├─ RISK ASSESSMENT:<br />
+    <span style="display:block;border-left:2px solid #888;padding-left:30px;margin-left:3px;padding-right:5px;margin-right:5px;padding-bottom:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+    └─ RECCOMENDED DUTY STATUS:<br />
+    <span style="display:block;padding-left:30px;margin-left:5px;padding-right:5px;margin-right:5px;">
+      &nbsp;&nbsp; TEXT GOES HERE!  COPY THIS LINE FOR MORE PARAGRAPHS!<br />
+    </span>
+  </p>
+  
+  <p style="color:#888;font-size:.9em;">
+    NAVIGATION<br />
+    > <a href="Link to Character Page Goes Here!" style="color:#ff4444;font-size:.9em">GO BACK</a><br />
+    > <a href="Link to Login Page Goes Here!" style="color:#ff4444;font-size:.9em">LOG OUT</a>
+  </p>
+  <!--Feel free to remove the Log Out Line here if you plan to only use the character page layout!-->
+  
+  <hr style="border-color:#00b8d4;margin:15px 0;" />
+  
+  <p style="color:#888;font-size:.85em;text-align:right;">
+    ACCESS LOGGED<br />=
+    FILE MAINTAINED BY CENTRAL COMMAND – PERSONNEL OPS DIVISION<br />=
+    UNAUTHORIZED DUPLICATION OR DISSEMINATION IS PUNISHABLE UNDER NT PROTOCOL-5<br />=
+    SECURESPACE DIRECTIVE 4.17(c)<br />
+  </p>
+</div>
